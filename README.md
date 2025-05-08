@@ -9,6 +9,9 @@
 
 ![AdidasLandingPageTwoDesktop](https://github.com/user-attachments/assets/ebf0f5ea-16c2-4fd7-86af-d9b8630c3957)
 
+<br>
+<br>
+
 <h2>Transition from Mobile to Desktop</h2>
 
 ![AdidasLandingpageTwoGif](https://github.com/user-attachments/assets/3db9f476-0f0d-4648-95ed-6d1f07d54ddb)
